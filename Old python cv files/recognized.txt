@@ -1,0 +1,16 @@
+=
+Change Order Summary: SRV488 Actions [Ada to Change Orderv] Gi
+Change Order Number SRVs83. Qe
+Change Order Name Kkaw
+Description This s NRE forTVILBE-24 and TVILB.H.8M SAT test of BENSO
+Requestor KAWABATA KAW status lnplemented
+Approval statis Approved
+item Number CYTVIL-BEMT-ONNRE
+item Description CYTVILS-E-2M SAT test fe for Denso
+4 Revised Items.
+Me Ba @
+tem 2. Description Catalog Category Lifecycle Phase From Revision 2 Schedule Date and Time 2. Status
+CVTVI-SHGNT-ON NRE CYTVINSH.SM SAT test fee for DENSO Non RecuringEngineenog Charges New Service 09 (06-Aug-2020 23.0008 implemented
+New Senvoe 00 06-Aug-2000 23.00.08 Implemented
+
+CYTVI-BE2MT-DN-NRE CYTVILB-E-2M SAT test fee for Denso Non-Recurring Engineering Charges
